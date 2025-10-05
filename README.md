@@ -34,7 +34,7 @@ Cartlow-Manual-Testing/
 
 ## Google Sheet Link
 For the online version of the manual testing documentation, you can view it here:  
-[Cartlow Manual Testing Sheet]([YOUR_GOOGLE_SHEET_LINK_HERE](https://docs.google.com/spreadsheets/d/1KFQoAVvJLTa82jmNzRGx__ak7ti9Mbh8V0jInYbmOg4/edit?usp=sharing))
+[Cartlow Manual Testing Sheet] (https://docs.google.com/spreadsheets/d/1KFQoAVvJLTa82jmNzRGx__ak7ti9Mbh8V0jInYbmOg4/edit?usp=sharing).
 
 ## Notes
 - All test cases are documented manually.
